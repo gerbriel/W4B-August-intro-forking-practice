@@ -9,7 +9,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
-    height: 300%;
+    height: 225%;
     display: flex;
     align-items: center;
     background-color: black;
@@ -40,8 +40,6 @@ li a:hover{
 }
 nav{
     position: fixed;
-    top: 0;
-    left: 0;
     width: 100%;
     height: 80px;
     padding: 10px 45px;
@@ -104,23 +102,40 @@ section{
     margin: 0px;
     padding: 0px;
     position: absolute;
-    right: 668px;
+    right: 638px;
     color: #fff;
     width: 125px;
     text-size-adjust: large;
-    bottom: -365px;
+    bottom: -505px;
 }
-
-
-
-
-
-
-
-
-
-
-
+.second h3{
+    font-size: 30px;
+}
+.second p{
+    font-size: 20px;
+}
+.video3{
+    position: absolute;
+    bottom: -750;
+    right: 638px;
+}
+.third{
+    border: 5px;
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    right: 450px;
+    color: rgb(3,81,40);
+    width: 150px;
+    text-size-adjust: large;
+    bottom: -1305px;
+}
+.third .mexico3{
+    font-size: 30px;
+}
+.third p{
+    font-size: 20px;
+}
 /**Footer**/
 .bottom{
     background-color: #fff;
@@ -135,7 +150,7 @@ section{
 .icons ul li a :hover{
     display: block;
     background-color: rgba(0,0,0,0.6);
-    font-size: 20px;
+    font-size: 50px;
     height: 100px;
     text-align: center;
 }
