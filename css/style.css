@@ -5,7 +5,7 @@ body{
 }    
 .hero-image{
     background-attachment: fixed;
-    background-image: url(/Images/Mexico\ Flag.jpg);
+    background-image: url(/W4B-August-intro/Images/Mexico\ Flag.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -94,7 +94,7 @@ section{
 }
 .video2{
     position: absolute;
-    bottom: -600px;
+    bottom: -500px;
     right: 0px;
 }
 .second{

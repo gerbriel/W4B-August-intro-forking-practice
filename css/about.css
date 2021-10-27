@@ -5,7 +5,7 @@ body{
 }    
 .heropic{
     background-attachment: fixed;
-    background-image: url(/Images/Mexico\ Flag.jpg);
+    background-image: url(/W4B-August-intro/Images/Mexico\ Flag.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -82,6 +82,8 @@ section{
     text-align: center;
 }
 .img2{
+    border: solid 5px;
+    border-color: pink;
     position: absolute;
     margin: 0px;
     padding: 0px;
